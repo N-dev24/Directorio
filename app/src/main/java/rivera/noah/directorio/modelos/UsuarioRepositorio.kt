@@ -2,7 +2,7 @@ package rivera.noah.directorio.modelos
 
 class UsuarioRepositorio {
     private val usuarios = listOf(
-        Usuario(1, "Ana López", "ana.lopez@correo.com", "Computación"),
+        Usuario(1, "Noah Rivera", "riveranoah@correo.com", "Computación"),
         Usuario(2, "Bruno Díaz", "bruno.diaz@correo.com", "Mecatrónica"),
         Usuario(3, "Carla Ruiz", "carla.ruiz@correo.com", "Diseño"),
         Usuario(4, "Diego Torres", "diego.torres@correo.com", "Industrial"),
